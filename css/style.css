@@ -97,7 +97,7 @@ div.blk{
 	line-height:39.14px;
 }
 
-@media only screen and (min-device-width: 1201px) and (max-width: 1920px) { 
+@media (min-width: 1201px) and (max-width: 1920px) { 
 	
 	.grid-item img{
 	  width: 80px;
@@ -147,7 +147,7 @@ div.blk{
 	}
 }
 
-@media only screen and (min-device-width: 600px) and (max-device-width: 1200px) {
+@media (min-width: 600px) and (max-width: 1200px) {
 	.grid-item img{
 	  width: 80px;
 	  height: 50px;
@@ -198,7 +198,7 @@ div.blk{
 	
 }
 
- @media only screen and (min-device-width: 361px) and (max-device-width: 600px) {
+ @media (min-width: 361px) and (max-width: 600px) {
 	.grid-item img{
 	  width: 80px;
 	  height: 50px;
